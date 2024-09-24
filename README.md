@@ -1,2 +1,1 @@
-# prepcurse-henrry
-este es un repositorio de prueba del modulo 2 del prepcurse henrry
+prueba de como crear un repositorio clonarlo y llevarlo a mi computadora
